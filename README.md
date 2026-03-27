@@ -1,1 +1,2 @@
-# lijokuriala.github.io
+# Lijo Kuriala
+# hello@lijok.com
